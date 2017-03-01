@@ -1,4 +1,4 @@
-# html-class-cataloguer
+# HTML Class Cataloguer
 Catalogs all classes used in html tags
-
-![](http://i.giphy.com/3ohze1eEhWuWE1hEGI.gif)
+--------------------
+![alt tag](https://raw.githubusercontent.com/tiagoapolo/html-class-cataloguer/master/html-example.gif)
